@@ -3,4 +3,4 @@
 
 export const SITE_TITLE = 'Richard Palacios Garcia';
 export const SITE_DESCRIPTION = 'Welcome to my digital garden!';
-export const HOMEPAGE_URL = 'https://www/richardpalaciosg.dev/'
+export const HOMEPAGE_URL = 'https://richardpalaciosg.dev/blog1'
